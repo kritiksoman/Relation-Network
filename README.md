@@ -37,6 +37,6 @@ Network parameters and architecture were taken from the supplementary material[2
 
 ## Reference
 [1] Santoro, Adam, et al. "A simple neural network module for relational reasoning." 
-Advances in neural information processing systems. 2017.
+Advances in neural information processing systems. 2017. <br/>
 [2] https://papers.nips.cc/paper/7082-a-simple-neural-network-module-for-relational-reasoning-supplemental.zip
 
